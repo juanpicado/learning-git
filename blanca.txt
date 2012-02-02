@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 hola caracola
+chachi pistachi!
+=======
+ihola caracola
+
+
+
+
+
+
+
+
+
+
+
+soy juan
+>>>>>>> 5c2df910b9d38d16a234891364173ddc0ce16351
